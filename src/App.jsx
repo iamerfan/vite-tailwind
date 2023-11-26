@@ -1,7 +1,3 @@
-import { useState } from "react";
-
-function App() {
+export default function App() {
   return <h1>Vite + React</h1>;
 }
-
-export default App;
